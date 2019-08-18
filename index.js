@@ -2,6 +2,9 @@ $("button").click(function(e) {
     console.log($(e.target).attr("video"))
 
 })
+
+let 
+
 var settings = {
 	"async": true,
 	"crossDomain": true,
